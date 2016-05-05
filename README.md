@@ -1,6 +1,6 @@
 # SpringBoot- SpringJPA
 
-Sample project of Spring JPA
+Sample project which shows how to use Spring JPA
 
 <h4>Installation and Getting Started</h4>
 
